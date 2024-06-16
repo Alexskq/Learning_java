@@ -21,6 +21,7 @@ The compiling process catches mistakes before the computer runs our code.
 - String, which stores multiple characters using double quotes.
 - Static typing, which is one of the safety features of Java.
 - Variable naming conventions.
+- For unchangeable variable : ```final``` before the variable's name -> `final int yearBorn = 1990`
 
 ## Operators 
 
@@ -29,6 +30,7 @@ The compiling process catches mistakes before the computer runs our code.
 - Multiplication (*=)
 - Division (/=)
 - Modulo (%=)
+- equals() for comparing Strings and other objects
 
   #### The order is as follows:
 
