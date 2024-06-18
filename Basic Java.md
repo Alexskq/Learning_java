@@ -22,6 +22,7 @@ The compiling process catches mistakes before the computer runs our code.
 - Static typing, which is one of the safety features of Java.
 - Variable naming conventions.
 - For unchangeable variable : ```final``` before the variable's name -> `final int yearBorn = 1990`
+- The void keyword (which means “completely empty”) indicates that no value is returned after calling that method.
 
 ## Operators 
 
