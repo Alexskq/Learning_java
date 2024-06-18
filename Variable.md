@@ -1,4 +1,4 @@
-# Variable
+# Variable  (https://www.codecademy.com/learn/learn-java/modules/learn-java-object-oriented-java-u/cheatsheet "Cheatsheet")
 
 ### Syntax 
 
@@ -16,11 +16,13 @@
    - Example :
 ```java
 public class Dog {
+  // instance fields
     String breed;
     boolean hasOwner;
     int age;
 
 public Dog(String dogBreed, boolean dogOwned, int dogYears) {
+  // constructor method
     System.out.println(“Constructor invoked!”);
     breed = dogBreed;
     hasOwner = dogOwned;
