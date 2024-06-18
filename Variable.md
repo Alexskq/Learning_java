@@ -1,4 +1,4 @@
-# Variable  (https://www.codecademy.com/learn/learn-java/modules/learn-java-object-oriented-java-u/cheatsheet "Cheatsheet")
+# Variable - [CheatSheet](https://www.codecademy.com/learn/learn-java/modules/learn-java-object-oriented-java-u/cheatsheet "Cheatsheet")
 
 ### Syntax 
 
