@@ -13,8 +13,9 @@
 ```java
   if (condition) {
     // consequent path
-} else {
+} else if {
     // alternative path
+} else {
 }
 ```
 
