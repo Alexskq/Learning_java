@@ -59,13 +59,14 @@ Literature: 30
 Programming: 40
 Gym: 50
 ```
-The Arrays Class
+### The Arrays Class
+
 Java includes an Arrays class in java.util that provides a number of static methods for manipulating arrays. Prominent ones are listed below:
 
-Arrays
-.fill()
+**.fill()**
 Fills an array with a specified value.
-.length
+**.length
+**
 The .length property is used to determine the length or size of an array.
-.sort()
+**.sort()**
 Sorts an array into ascending order.
