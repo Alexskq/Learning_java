@@ -24,6 +24,17 @@ The compiling process catches mistakes before the computer runs our code.
 - For unchangeable variable : ```final``` before the variable's name -> `final int yearBorn = 1990`
 - The void keyword (which means “completely empty”) indicates that no value is returned after calling that method.
 
+```java
+int age = 28;
+char grade = 'A';
+boolean late = true;
+byte b = 20;
+long num1 = 1234567;
+short no = 10;
+float k = (float)12.5;
+double pi = 3.14;
+```
+
 ## Operators 
 
 - Addition (+=)
